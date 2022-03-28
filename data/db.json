@@ -1,0 +1,28 @@
+{
+  "ids": {
+    "User": 12,
+    "UserCredentials": 9
+  },
+  "models": {
+    "User": {
+      "4": "{\"username\":\"testuser1\",\"email\":\"testuser1@abc.com\",\"id\":4}",
+      "string": "{\"id\":\"string\",\"realm\":\"string\",\"username\":\"aziz\",\"email\":\"aziz@test.com\",\"emailVerified\":true,\"verificationToken\":\"string\",\"additionalProp1\":{}}",
+      "8b5a6925-a517-4060-b24a-0323508f816e": "{\"id\":\"8b5a6925-a517-4060-b24a-0323508f816e\",\"email\":\"testuser2@abc.com\"}",
+      "2d32cb58-8a11-48f6-9e94-97239a3fd645": "{\"id\":\"2d32cb58-8a11-48f6-9e94-97239a3fd645\",\"username\":\"aziz\",\"email\":\"cetinaziz2894@gmail.com\"}",
+      "704b6568-65b6-48a5-8efe-af5d263fc15d": "{\"id\":\"704b6568-65b6-48a5-8efe-af5d263fc15d\",\"username\":\"aziz\",\"email\":\"aziz2@gmail.com\"}",
+      "9c898eef-9def-4ebc-96d8-5261fd484570": "{\"id\":\"9c898eef-9def-4ebc-96d8-5261fd484570\",\"username\":\"aziz\",\"email\":\"test@gmail.com\"}",
+      "fa766786-bc6f-474f-9623-fddb78ec5cc3": "{\"id\":\"fa766786-bc6f-474f-9623-fddb78ec5cc3\",\"username\":\"azizcetin\",\"email\":\"azizcetin@test.com\"}",
+      "2b50e871-a7a4-4198-acfe-00ebb7324efe": "{\"id\":\"2b50e871-a7a4-4198-acfe-00ebb7324efe\",\"email\":\"testuser3@abc.com\"}"
+    },
+    "UserCredentials": {
+      "1": "{\"password\":\"$2a$10$QrcA7GDOZ06TTXEBhuz87On8mcapb9qoU3rjWb7Z5pwBv7ZAbmXwa\",\"userId\":4,\"id\":1}",
+      "df5181b3-01d5-44df-9fce-e66902f827cb": "{\"id\":\"df5181b3-01d5-44df-9fce-e66902f827cb\",\"password\":\"$2a$10$I4WL9voGWltVOgnwBiEhC.mygm1Pf2hqT2NIYIkolaNMF8h5Idt5a\",\"userId\":\"string\"}",
+      "41f46464-b98a-471a-bb8c-2c043b81147d": "{\"id\":\"41f46464-b98a-471a-bb8c-2c043b81147d\",\"password\":\"$2a$10$D.cwYaJm7uImkHR0529sEuuz2bYJRE9OLYLmEUTG5y.Wfu/Gpt5VO\",\"userId\":\"8b5a6925-a517-4060-b24a-0323508f816e\"}",
+      "d1f06d76-625d-4ab7-8d90-2b591c20be5b": "{\"id\":\"d1f06d76-625d-4ab7-8d90-2b591c20be5b\",\"password\":\"$2a$10$U0oc3QPTkrAwAa/mDvlSqe45/7w1U..ZhxFIL63TPV06zVA5EKrg2\",\"userId\":\"2d32cb58-8a11-48f6-9e94-97239a3fd645\"}",
+      "5960378d-68ed-4583-b495-4d9b0d537f95": "{\"id\":\"5960378d-68ed-4583-b495-4d9b0d537f95\",\"password\":\"$2a$10$2OQx33fc/Tb54R2fd0zD.uj.elSeOLXx.93sL8v5cagLY40z7VpMW\",\"userId\":\"704b6568-65b6-48a5-8efe-af5d263fc15d\"}",
+      "e5130e4a-352a-4ffa-90e7-139d1e76f8fc": "{\"id\":\"e5130e4a-352a-4ffa-90e7-139d1e76f8fc\",\"password\":\"$2a$10$SdPdcjjZ6UeRqIE9IEq73u8jc3etrTVBxE1VvVNuKc7reJJpPPMCO\",\"userId\":\"9c898eef-9def-4ebc-96d8-5261fd484570\"}",
+      "00a50b12-0cd7-4c7e-9e78-74d74f178282": "{\"id\":\"00a50b12-0cd7-4c7e-9e78-74d74f178282\",\"password\":\"$2a$10$/AxOyaEds/.20wgHAYUWGO/mLWg2rQndz/wsWkNhpqg7XuI6ekBey\",\"userId\":\"fa766786-bc6f-474f-9623-fddb78ec5cc3\"}",
+      "3f0422db-92c2-42eb-aad3-b053c34978e5": "{\"id\":\"3f0422db-92c2-42eb-aad3-b053c34978e5\",\"password\":\"$2a$10$Laq92Loi6ND8.SrH.LNu7ukIhaLiKqkuQXXZF0hYon18b.OkxGZqC\",\"userId\":\"2b50e871-a7a4-4198-acfe-00ebb7324efe\"}"
+    }
+  }
+}
