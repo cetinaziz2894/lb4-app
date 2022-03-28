@@ -28,6 +28,24 @@ You can also run `node .` to skip the build step.
 
 Open http://127.0.0.1:3000 in your browser.
 
+You can use this "eyJhbXVCJ9.eyJpZCI6Ij.I3wpRNCH4;" token for authorization while you are try to execute endpoints. 
+
+Sign up using the /signup API
+
+Since we don’t have any users created, click on POST /signup. For the requestBody, the minimum you need is email and password. i.e.
+
+{
+  "email": "testuser2@abc.com",
+  "password": "testuser2"
+}
+Log in using the POST /users/login API
+
+After calling /users/login, the response body will look something like:
+
+{
+  "token": "aaaaaaaaa.aaaaaaaaaaaaaaaaa"
+}
+
 ## Rebuild the project
 
 To incrementally build the project:
